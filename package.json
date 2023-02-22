@@ -1,0 +1,24 @@
+{
+  "name": "my-react-unity-ui",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.ts",
+  "private": true,
+  "scripts": {
+    "start": "react-unity-scripts start",
+    "build": "react-unity-scripts build",
+    "lint": "react-unity-scripts lint"
+  },
+  "dependencies": {
+    "@reactunity/renderer": "0.15.2",
+    "history": "^5.3.0",
+    "react": "^18.2.0",
+    "react-router": "^6.8.1"
+  },
+  "devDependencies": {
+    "@reactunity/scripts": "^0.15.1",
+    "@reactunity/previewer": "^0.15.0",
+    "tailwindcss": "^3.2.7",
+    "typescript": "^4.9.5"
+  }
+}
