@@ -1,7 +1,3 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 .todo-root {
   flex-direction: column;
   align-self: center;
